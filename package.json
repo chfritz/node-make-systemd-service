@@ -1,0 +1,23 @@
+{
+  "name": "make-systemd-service",
+  "version": "0.1.0",
+  "description": "Script that turns the npm project in the current directory into a systemd user service started on login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chfritz/node-make-systemd-service.git"
+  },
+  "keywords": [
+    "systemd"
+  ],
+  "author": "Christian Fritz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chfritz/node-make-systemd-service/issues"
+  },
+  "homepage": "https://github.com/chfritz/node-make-systemd-service#readme"
+}
